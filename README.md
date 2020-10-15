@@ -1,24 +1,30 @@
-# README
+# Backend-bookstore-cms
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A backend API built on Ruby on Rails for a Bookstore - CMS
+  
+## Built With
+  - Ruby on Rails
 
-Things you may want to cover:
+## Author
+👤 **Ivan Diaz**
 
-* Ruby version
+  - Github: [@ivanid22](https://github.com/ivanid22)
+  - Twitter: [@ivanid22](https://twitter.com/ivanid22)
+  - Linkedin: [Ivan Diaz](www.linkedin.com/in/ivanid22)
 
-* System dependencies
+👤 **Santiago Rodriguez Bermúdez**
 
-* Configuration
+  - Github: [@srba87](https://github.com/santiagorodriguezbermudez)
+  - Twitter: [@srba87](https://twitter.com/srba87)
+  - Linkedin: [srba87](https://linkedin.com/in/srba)
 
-* Database creation
+## 🤝 Contributing
 
-* Database initialization
+  - Contributions, issues and feature requests are welcome!
 
-* How to run the test suite
+  - Feel free to check the [issues page](./issues).
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show your support
 
-* Deployment instructions
-
-* ...
+  - Give a ⭐️ if you like this project!
+  
